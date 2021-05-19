@@ -7,4 +7,4 @@
 
 ### Read All of the documentation
 
-### Task setup bootstrap by downloading source code
+### Task: setup bootstrap by downloading source code
